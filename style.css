@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+   color: aqua;
+}
+h3.certi{
+    color: blue;
+}
+img{
+    size:  20px 40px ;
+}
